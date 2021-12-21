@@ -12,6 +12,8 @@
  */
 namespace SSanzDev_WC_Product_Att_Meta;
 
+defined( 'ABSPATH' ) || exit;
+
 /**
  * Displays the custom field in the "Add product attribute" admin page.
  *
